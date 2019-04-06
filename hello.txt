@@ -1,8 +1,5 @@
 hello world 5
 
-<<<<<<< HEAD
 
 this is branch 1
-=======
 this is feature 2
->>>>>>> feature2
